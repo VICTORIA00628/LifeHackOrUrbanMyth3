@@ -9,7 +9,7 @@ An Android app where users guess if a statement is a Life Hack or an Urban Myth.
 - Review answers
 
 ## Video Demo
-[Video link here]
+https://youtu.be/jJ6NqHx3Y0o?si=DLUUgzo-S-c_GUOF
 
 ## Developer
 Victoria
